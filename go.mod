@@ -1,6 +1,8 @@
-module github.com/hexya-addons/decimalPrecision
+module github.com/gleke/decimalPrecision
+
+go 1.15
 
 require (
-	github.com/hexya-addons/base v0.0.22
-	github.com/hexya-erp/hexya v0.0.23
+	github.com/gleke/base v0.2.1
+	github.com/gleke/hexya v0.1.9
 )

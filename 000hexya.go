@@ -5,9 +5,9 @@ package decimalPrecision
 
 import (
 	// decimalPrecision depends on base module
-	_ "github.com/hexya-addons/base"
-	"github.com/hexya-erp/hexya/src/server"
-	"github.com/hexya-erp/hexya/src/tools/nbutils"
+	_ "github.com/gleke/base"
+	"github.com/gleke/hexya/src/server"
+	"github.com/gleke/hexya/src/tools/nbutils"
 )
 
 const MODULE_NAME string = "decimalPrecision"

@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.com/hexya-addons/decimalPrecision.svg?branch=master)](https://travis-ci.com/hexya-addons/decimalPrecision)
-[![Go Report Card](https://goreportcard.com/badge/hexya-addons/decimalPrecision)](https://goreportcard.com/report/hexya-addons/decimalPrecision)
+[![Build Status](https://travis-ci.com/gleke/decimalPrecision.svg?branch=master)](https://travis-ci.com/gleke/decimalPrecision)
+[![Go Report Card](https://goreportcard.com/badge/gleke/decimalPrecision)](https://goreportcard.com/report/gleke/decimalPrecision)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 # Decimal Precision
